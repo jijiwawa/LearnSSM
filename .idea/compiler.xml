@@ -10,7 +10,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chapter01" target="1.7" />
       <module name="ear" target="1.5" />
       <module name="ejbs" target="1.5" />
       <module name="logging" target="1.5" />
