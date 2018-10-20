@@ -2,48 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc4282a-e5a6-4c63-a38e-cff4c8f72b42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring/bean.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/TestDI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/chapter01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/AnnotationAssemableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/assemable/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/assemable/XmlBeanAssemableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/constructor/Bean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/constructor/InstanceTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/factory/Bean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/factory/InstanceTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/factory/MyBean3Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/staic_factory/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/staic_factory/InstanceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/instance/staic_factory/MyBean2Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/scope/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/scope/ScopeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/src/main/resources/bean6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/TestDI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/TestIoC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/target/classes/com/iteima/ioc/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/aspect/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/ProxyFactoryBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/bean6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/TestDI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/TestIoC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/iteima/ioc/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/AnnotationAssemableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/annotation/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/assemable/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/assemable/XmlBeanAssemableTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/constructor/Bean1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/constructor/InstanceTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/factory/Bean3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/factory/InstanceTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/factory/MyBean3Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/staic_factory/Bean2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/staic_factory/InstanceTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/instance/staic_factory/MyBean2Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/scope/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter03/target/classes/com/itheima/scope/ScopeTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter01/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,6 +63,7 @@
     <ignored path="$PROJECT_DIR$/chapter01/servlets/servlet/target/" />
     <ignored path="$PROJECT_DIR$/chapter01/projects/logging/target/" />
     <ignored path="$PROJECT_DIR$/chapter02/target/" />
+    <ignored path="$PROJECT_DIR$/chapter03/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +93,8 @@
               <entry file="file://$PROJECT_DIR$/Spring/bean.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                   <state split_layout="SPLIT">
-                    <first_editor relative-caret-position="744">
-                      <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+                    <first_editor relative-caret-position="775">
+                      <caret line="136" selection-start-line="136" selection-end-line="136" />
                     </first_editor>
                     <second_editor />
                   </state>
@@ -106,54 +114,58 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="3" />
-          <entry key="java" value="54" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="65" />
           <entry key="md" value="5" />
           <entry key="tld" value="1" />
-          <entry key="xml" value="23" />
+          <entry key="xml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="3" />
-          <entry key="JAVA" value="54" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="65" />
           <entry key="Markdown" value="5" />
-          <entry key="XML" value="24" />
+          <entry key="XML" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2068" />
+          <entry key="java" value="3903" />
           <entry key="md" value="2701" />
           <entry key="tld" value="2" />
-          <entry key="txt" value="4" />
-          <entry key="xml" value="939" />
+          <entry key="txt" value="9" />
+          <entry key="xml" value="1349" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2068" />
+          <entry key="JAVA" value="3903" />
           <entry key="Markdown" value="2701" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="941" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="1351" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -209,6 +221,18 @@
         <option value="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/UserController.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/java/com/itheima/annotation/AnnotationAssemableTest.java" />
         <option value="$PROJECT_DIR$/chapter02/src/main/resources/bean6.xml" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDao.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/aspect/MyAspect.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkProxy.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkTest.java" />
+        <option value="$PROJECT_DIR$/chapter03/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/UserDao.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibTest.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/MyAspect.java" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/ProxyFactoryBeanTest.java" />
       </list>
     </option>
   </component>
@@ -280,9 +304,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,16 +311,100 @@
               <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="cglib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="factorybean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537081491841" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540017427514" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -309,18 +414,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\projectOfIdeal\LearnSSM\chapter02\src\main\resources" />
-      <recent name="H:\projectOfIdeal\LearnSSM" />
-      <recent name="H:\projectOfIdeal\LearnSSM\chapter01\src\main" />
-      <recent name="H:\projectOfIdeal\LearnSSM\src\main\java" />
-      <recent name="H:\projectOfIdeal\LearnSSM\chapter01" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\projectOfIdeal\LearnSSM\chapter01\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.itheima.instance.factory" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\projectOfIdeal\LearnSSM\chapter01\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\projectOfIdeal\LearnSSM\chapter03\src\main\resources" />
+      <recent name="H:\projectOfIdeal\LearnSSM" />
+      <recent name="H:\projectOfIdeal\LearnSSM\chapter02\src\main\resources" />
+      <recent name="H:\projectOfIdeal\LearnSSM\chapter01\src\main" />
+      <recent name="H:\projectOfIdeal\LearnSSM\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -335,7 +440,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnnotationAssemableTest">
+  <component name="RunManager" selected="Application.ProxyFactoryBeanTest">
     <configuration name="AnnotationAssemableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itheima.annotation.AnnotationAssemableTest" />
       <module name="chapter02" />
@@ -349,12 +454,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.instance.staic_factory.InstanceTest2" />
-      <module name="chapter02" />
+    <configuration name="CglibTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.cglib.CglibTest" />
+      <module name="chapter03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.instance.staic_factory.*" />
+          <option name="PATTERN" value="com.itheima.cglib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,12 +467,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.instance.factory.InstanceTest3" />
-      <module name="chapter02" />
+    <configuration name="JdkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.jdk.JdkTest" />
+      <module name="chapter03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.instance.factory.*" />
+          <option name="PATTERN" value="com.itheima.jdk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -375,12 +480,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.itheima.scope.ScopeTest" />
-      <module name="chapter02" />
+    <configuration name="ProxyFactoryBeanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.factorybean.ProxyFactoryBeanTest" />
+      <module name="chapter03" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.itheima.scope.*" />
+          <option name="PATTERN" value="com.itheima.factorybean.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,19 +507,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstanceTest2" />
-      <item itemvalue="Application.InstanceTest3" />
-      <item itemvalue="Application.ScopeTest" />
       <item itemvalue="Application.XmlBeanAssemableTest" />
       <item itemvalue="Application.AnnotationAssemableTest" />
+      <item itemvalue="Application.JdkTest" />
+      <item itemvalue="Application.CglibTest" />
+      <item itemvalue="Application.ProxyFactoryBeanTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProxyFactoryBeanTest" />
+        <item itemvalue="Application.CglibTest" />
+        <item itemvalue="Application.JdkTest" />
         <item itemvalue="Application.AnnotationAssemableTest" />
         <item itemvalue="Application.XmlBeanAssemableTest" />
-        <item itemvalue="Application.ScopeTest" />
-        <item itemvalue="Application.InstanceTest3" />
-        <item itemvalue="Application.InstanceTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -434,6 +539,7 @@
       <workItem from="1536455495259" duration="7749000" />
       <workItem from="1536973794128" duration="13084000" />
       <workItem from="1537061053383" duration="6022000" />
+      <workItem from="1540000948300" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="9，。8">
       <created>1536393989819</created>
@@ -449,16 +555,23 @@
       <option name="project" value="LOCAL" />
       <updated>1536455538663</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10.20">
+      <created>1540001022671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540001022671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35857000" />
+    <option name="totallyTimeSpent" value="42529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20255864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,7 +583,7 @@
       <window_info id="Web" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40333334" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22878624" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -505,83 +618,14 @@
     </ignored-roots>
     <MESSAGE value="9，。8" />
     <MESSAGE value="9，。9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9，。9" />
+    <MESSAGE value="10.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.20" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter01/ear/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
-            <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/cn/shu/sxk/App.java" />
-    <entry file="file://$PROJECT_DIR$/chapter01/src/test/java/cn/shu/sxk/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/applicationContext.xml.tld" />
-    <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Q&amp;A.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/UserDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/UserDaoImpl.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.2.RELEASE/spring-context-4.2.2.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ioc/TestIoC.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/chapter01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/TestIoC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter01/src/main/java/com/iteima/ioc/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -762,9 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
-          <folding>
-            <element signature="e#52271#52272#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,10 +887,150 @@
     <entry file="file://$PROJECT_DIR$/Spring/bean.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="744">
-            <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+          <first_editor relative-caret-position="775">
+            <caret line="136" selection-start-line="136" selection-end-line="136" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/scope/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/aspect/MyAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/JdkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/chapter01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/jdk/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="35" column="56" lean-forward="true" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/cglib/CglibTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/MyAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter03/src/main/java/com/itheima/factorybean/ProxyFactoryBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
