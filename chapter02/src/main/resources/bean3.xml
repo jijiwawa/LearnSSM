@@ -3,8 +3,9 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
-    <bean id="userDao" class="com.iteima.ioc.UserDaoImpl"/>
-    <bean id="userService" class="com.iteima.ioc.UserServiceImpl">
-        <property name="userDao" ref="userDao"/>
-    </bean>
+    <!-- 配置工厂 -->
+    <bean id="myBean3Factory" class="com.itheima.instance.factory.MyBean3Factory"/>
+    <!-- 使用factory-bean 属性指向配置的实例工厂,
+         使用factory-method 属性确定使用工厂中的哪个方法 -->
+    <bean id="bean3" factory-bean="myBean3Factory" factory-method="createBean"/>
 </beans>

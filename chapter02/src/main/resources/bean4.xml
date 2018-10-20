@@ -3,8 +3,6 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
-    <bean id="userDao" class="com.iteima.ioc.UserDaoImpl"/>
-    <bean id="userService" class="com.iteima.ioc.UserServiceImpl">
-        <property name="userDao" ref="userDao"/>
-    </bean>
+    <!--<bean id="scope" class="com.itheima.scope.Scope" scope="singleton"/>   -->
+    <bean id="scope" class="com.itheima.scope.Scope" scope="prototype"/>
 </beans>
