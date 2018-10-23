@@ -8,6 +8,7 @@
     <file type="web" url="file://$PROJECT_DIR$/chapter01/servlets/servlet" />
     <file type="web" url="file://$PROJECT_DIR$/chapter02" />
     <file type="web" url="file://$PROJECT_DIR$/chapter03" />
+    <type id="Spring" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
